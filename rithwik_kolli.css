@@ -1,0 +1,33 @@
+/* Nagendla Pavan final exam, 10/29/2022*/
+p {
+	margin: 0;
+}
+
+body {
+	background: rgba(255, 0, 0, 0.5);
+	background-image: url(Background.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+a.nodec {
+	text-decoration: none;
+}
+
+a.hover {
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: 200%;
+}
+
+div {
+	background-color: plum;
+}
+
+.box {
+	border: 1px solid black;
+	padding: 10px
+}
